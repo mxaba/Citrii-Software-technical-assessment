@@ -1,17 +1,20 @@
 using System;
+using System.Diagnostics;
 
 namespace Test
 {
     public class Test1
     {
         public static void staircase(int n) {
-            var count = n;
-            
+            var watch = Stopwatch.StartNew();
+            var count = n;            
             for(int i = 1; i <= n; i++) {
                 count--;
                 amountOfTabs(count);
                 Console.WriteLine(amountOfTabs(count) + amountOfTags(i));
             }
+            watch.Stop();
+            Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds}ms");
         }
 
         static string amountOfTags(int n) {

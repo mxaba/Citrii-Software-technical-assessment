@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mcebosamuel/Downloads/TestS/Test/Test.csproj": {}
+    "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/Test.csproj": {}
   },
   "projects": {
-    "/Users/mcebosamuel/Downloads/TestS/Test/Test.csproj": {
+    "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mcebosamuel/Downloads/TestS/Test/Test.csproj",
+        "projectUniqueName": "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/Users/mcebosamuel/Downloads/TestS/Test/Test.csproj",
+        "projectPath": "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/Test.csproj",
         "packagesPath": "/Users/mcebosamuel/.nuget/packages/",
-        "outputPath": "/Users/mcebosamuel/Downloads/TestS/Test/obj/",
+        "outputPath": "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mcebosamuel/.nuget/NuGet/NuGet.Config"

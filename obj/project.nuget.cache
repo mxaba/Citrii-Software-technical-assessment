@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aCfunlTfgxspQJE7LUVUD54XDfJdHblDXzYzktKL7FJr36CDqhSkiHOEc+xyCcFVJjFXN3V4MzEvdDjXuLgp0w==",
+  "dgSpecHash": "ZjGiVeff+F98umUe42aOGTG53N6P07Yphs7ZAGpoMltazXx2OUrIVfIZautzCyFk5SspXbaWpXInhz5ErzuE5Q==",
   "success": true,
-  "projectFilePath": "/Users/mcebosamuel/Downloads/TestS/Test/Test.csproj",
+  "projectFilePath": "/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/Test.csproj",
   "expectedPackageFiles": [
     "/Users/mcebosamuel/.nuget/packages/geocoordinate/2.0.1/geocoordinate.2.0.1.nupkg.sha512",
     "/Users/mcebosamuel/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",

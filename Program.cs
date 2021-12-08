@@ -34,15 +34,15 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            // Test1.staircase(60);
+            Test1.staircase(60);
             // Test1Improved.improvedTest1(6);
             // Test3.palindrome("Hi my name is Bob");
             var result = new Test4();
             var point1 = new Point();
             // point1(-33.93758083398224, 18.85560933777421);
 
-            var result2 =result.GetTotalMetersBetweenTwoPoints(new Point{Latitude =-33.93758083398224, Longitude=18.85560933777421}, new Point{Latitude =-34.101290896639355, Longitude=18.853087865159306});
-            Console.WriteLine(result2);
+            // var result2 =result.GetTotalMetersBetweenTwoPoints(new Point{Latitude =-33.93758083398224, Longitude=18.85560933777421}, new Point{Latitude =-34.101290896639355, Longitude=18.853087865159306});
+            // Console.WriteLine(result2);
         }
     }
 }

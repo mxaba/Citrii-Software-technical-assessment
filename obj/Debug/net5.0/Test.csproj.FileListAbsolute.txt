@@ -13,3 +13,18 @@
 /Users/mcebosamuel/Downloads/TestS/Test/obj/Debug/net5.0/ref/Test.dll
 /Users/mcebosamuel/Downloads/TestS/Test/obj/Debug/net5.0/Test.pdb
 /Users/mcebosamuel/Downloads/TestS/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/Test.deps.json
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/Test.dll
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/ref/Test.dll
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/bin/Debug/net5.0/Test.pdb
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.csproj.AssemblyReference.cache
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.dll
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/ref/Test.dll
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.pdb
+/Users/mcebosamuel/Downloads/Answers Technical Test Pack/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache
